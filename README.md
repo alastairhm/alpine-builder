@@ -1,3 +1,7 @@
 # alpine-builder
 
-Alpine latest with curl and Task installed.
+Alpine latest with these packages installed
+
+* curl
+* task
+
